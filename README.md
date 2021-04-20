@@ -9,5 +9,3 @@ In this project, there are two types of login. i.e Admin and User. After Logging
 he/she can maintain issued, returned and not returned book’s record easily.
 The design of this project is pretty simple and the user won’t find it difficult to understand, use and navigate.
 
-![home1](https://user-images.githubusercontent.com/54524364/114282852-02d73f00-9a64-11eb-9013-1b81108cdec0.PNG)
-
